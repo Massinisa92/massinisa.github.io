@@ -1,0 +1,22 @@
+body{
+    background-image: url("img/fond2.webp");
+}
+.Nike-tech{
+    background:url(img/SurvetNikeTech.webp)
+}
+
+.fl{
+    float: left;
+}
+
+.marron{
+    color: #582900;
+}
+
+.centre{
+    float: center;
+}
+
+.blockcentre{
+    margin: 0 25%;
+}
